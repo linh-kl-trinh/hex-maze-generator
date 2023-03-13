@@ -13,18 +13,6 @@ Each `HexCell` has a position on the board given in axial coordinates. Refer to 
  The maze is generated using an depth-first search. When generating the maze, the radius and start coordinate of the maze are specified by the user and the exit is chosen during the algorithm to be the most distant cell away from the start which is also on the edge of the board. The internal shape of the maze is determined by a branch factor along with a seed. These two values determine how neighbours will be chosen during depth-first search.
 
 
-## Compile the code
-
-In the terminal, use these commands:
-```sh
-cd hex-maze-generator
-make
-./maze
-```
-
-Follow the prompts to enter the values needed.
-
-
 ## Results
 
 - A maze will be generated and stored in the file named "maze.png".
@@ -38,8 +26,8 @@ Below are the results of a maze with a radius of 25 that starts from the center.
 
 - Original maze
 
-<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze.png" width="500" height="600"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20coloured%20based%20on%20path%20distance.png" width="500" height="600">
+<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze.png" width="500" height="500"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20coloured%20based%20on%20path%20distance.png" width="500" height="500">
 
 - Solution
 
-<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions.png" width="500" height="600"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions%20coloured%20based%20on%20path%20distance.png" width="500" height="600">
+<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions.png" width="500" height="500"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions%20coloured%20based%20on%20path%20distance.png" width="500" height="500">
