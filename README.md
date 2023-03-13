@@ -26,8 +26,8 @@ Below are the results of a maze with a radius of 25 that starts from the center.
 
 - Original maze
 
-<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze.png" width="500" height="500"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20coloured%20based%20on%20path%20distance.png" width="500" height="500">
+<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze.png" width="300" height="300"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20coloured%20based%20on%20path%20distance.png" width="300" height="300">
 
 - Solution
 
-<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions.png" width="500" height="500"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions%20coloured%20based%20on%20path%20distance.png" width="500" height="500">
+<img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions.png" width="300" height="300"><img src="https://github.com/linh-kl-trinh/hex-maze-generator/blob/main/example-images/maze%20with%20solutions%20coloured%20based%20on%20path%20distance.png" width="300" height="300">
